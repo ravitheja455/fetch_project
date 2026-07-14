@@ -1,6 +1,6 @@
 a = int(input("enter a number"))
 b = int(input("enter a number"))
-print ("addtion", a+b)
-print ("sub", a-b)
-print ("mul", a*b)
-
+print("addtion", a+b)
+print("sub", a-b)
+print("mul", a*b)
+print("div",a/b)
